@@ -22,6 +22,11 @@
 
 /* tacos.html */
 
+#img-tacos {
+    width: 400px;
+    height: auto;
+}
+
 #ul-tacos li::marker {
     color: burlywood;
     font-size: 22px;
