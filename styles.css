@@ -19,3 +19,14 @@
 #ol-scrambled-eggs li::marker {
     color: burlywood;
 }
+
+/* tacos.html */
+
+#ul-tacos li::marker {
+    color: burlywood;
+    font-size: 22px;
+}
+
+#ol-tacos li::marker {
+    color: burlywood;
+}
