@@ -11,6 +11,11 @@
 
 /* scrambled-eggs.html */
 
+#img-scrambled-eggs {
+    width: 400px;
+    height: auto;
+}
+
 #ul-scrambled-eggs li::marker {
     color: burlywood;
     font-size: 22px;
