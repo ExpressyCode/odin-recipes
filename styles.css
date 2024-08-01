@@ -9,3 +9,13 @@
     font-size: 22px;
 }
 
+/* scrambled-eggs.html */
+
+#ul-scrambled-eggs li::marker {
+    color: burlywood;
+    font-size: 22px;
+}
+
+#ol-scrambled-eggs li::marker {
+    color: burlywood;
+}
