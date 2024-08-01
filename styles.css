@@ -30,3 +30,19 @@
 #ol-tacos li::marker {
     color: burlywood;
 }
+
+/* carnivore-ice-cream.html */
+
+#img-carnivore-ice-cream {
+    width: 400px;
+    height: auto;
+}
+
+#ul-carnivore-ice-cream li::marker {
+    color: burlywood;
+    font-size: 22px;
+}
+
+#ol-carnivore-ice-cream li::marker {
+    color: burlywood;
+}
