@@ -53,7 +53,7 @@
 }
 
 .ul-scrambled-eggs {
-    margin: 5%;
+    margin: 2%;
     font-size: 18px;
     list-style: disc;
     list-style-position: inside;
@@ -64,16 +64,13 @@
 }
 
 .ol-scrambled-eggs {
-    margin: 5% 8%;
+    margin: 2%;
     font-size: 18px;
+    list-style-position: inside;
 }
 
 .ol-scrambled-eggs li {
     margin: 10px 0;
-}
-
-.ol-scrambled-eggs li::marker {
-
 }
 
 /* tacos.html */
