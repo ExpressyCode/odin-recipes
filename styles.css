@@ -6,26 +6,7 @@
     background-color: blanchedalmond;
 }
 
-/* index.html */
-
-.div-index {
-    margin: 2%;
-}
-
-.h1-index {
-    margin: 2%;
-    color: darkolivegreen;
-}
-
-.ul-index {
-    color: burlywood;
-    font-size: 22px;
-    list-style: disc;
-    list-style-position: inside;
-    margin: 5%;
-}
-
-/* scrambled-eggs.html */
+/* css is same for all pages */
 
 .div {
     margin: 2%;
@@ -71,38 +52,4 @@
 
 .ol li {
     margin: 10px 0;
-}
-
-/* tacos.html */
-
-.img-tacos {
-    width: 400px;
-    height: auto;
-}
-
-.ul-tacos li::marker {
-    color: burlywood;
-    font-size: 22px;
-    list-style: circle;
-    list-style-position: inside;
-}
-
-.ol-tacos li::marker {
-    color: burlywood;
-}
-
-/* carnivore-ice-cream.html */
-
-.img-carnivore-ice-cream {
-    width: 400px;
-    height: auto;
-}
-
-.ul-carnivore-ice-cream li::marker {
-    color: burlywood;
-    font-size: 22px;
-}
-
-.ol-carnivore-ice-cream li::marker {
-    color: burlywood;
 }
