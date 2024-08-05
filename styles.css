@@ -1,12 +1,20 @@
-/* index.html */
-
 * {
     font-family: Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+/* index.html */
+
+.body-index {
+    margin: 2%;
 }
 
 .ul-index {
     color: burlywood;
     font-size: 22px;
+    list-style: circle;
+    list-style-position: inside;
 }
 
 /* scrambled-eggs.html */
@@ -14,6 +22,7 @@
 .img-scrambled-eggs {
     width: 400px;
     height: auto;
+
 }
 
 .ul-scrambled-eggs li::marker {
