@@ -27,19 +27,53 @@
 
 /* scrambled-eggs.html */
 
+.div-scrambled-eggs {
+    margin: 2%;
+}
+
+.h1-scrambled-eggs {
+    margin: 2%;
+    color: darkolivegreen;
+}
+
 .img-scrambled-eggs {
     width: 400px;
     height: auto;
-
+    margin: 2%;
+    border: 5px solid darkolivegreen;
 }
 
-.ul-scrambled-eggs li::marker {
-    color: burlywood;
-    font-size: 22px;
+.h2-scrambled-eggs {
+    margin: 2%;
+    color: darkolivegreen;
+}
+
+.p-scrambled-eggs {
+    margin: 2%;
+}
+
+.ul-scrambled-eggs {
+    margin: 5%;
+    font-size: 18px;
+    list-style: disc;
+    list-style-position: inside;
+}
+
+.ul-scrambled-eggs li {
+    margin: 10px 0;
+}
+
+.ol-scrambled-eggs {
+    margin: 5% 8%;
+    font-size: 18px;
+}
+
+.ol-scrambled-eggs li {
+    margin: 10px 0;
 }
 
 .ol-scrambled-eggs li::marker {
-    color: burlywood;
+
 }
 
 /* tacos.html */
