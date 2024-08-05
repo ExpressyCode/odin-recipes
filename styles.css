@@ -27,49 +27,49 @@
 
 /* scrambled-eggs.html */
 
-.div-scrambled-eggs {
+.div {
     margin: 2%;
 }
 
-.h1-scrambled-eggs {
+.h1 {
     margin: 2%;
     color: darkolivegreen;
 }
 
-.img-scrambled-eggs {
+.img {
     width: 400px;
     height: auto;
     margin: 2%;
     border: 5px solid darkolivegreen;
 }
 
-.h2-scrambled-eggs {
+.h2 {
     margin: 2%;
     color: darkolivegreen;
 }
 
-.p-scrambled-eggs {
+.p {
     margin: 2%;
 }
 
-.ul-scrambled-eggs {
+.ul {
     margin: 2%;
     font-size: 18px;
     list-style: disc;
     list-style-position: inside;
 }
 
-.ul-scrambled-eggs li {
+.ul li {
     margin: 10px 0;
 }
 
-.ol-scrambled-eggs {
+.ol {
     margin: 2%;
     font-size: 18px;
     list-style-position: inside;
 }
 
-.ol-scrambled-eggs li {
+.ol li {
     margin: 10px 0;
 }
 
