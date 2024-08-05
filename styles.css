@@ -4,55 +4,55 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-#ul-index {
+.ul-index {
     color: burlywood;
     font-size: 22px;
 }
 
 /* scrambled-eggs.html */
 
-#img-scrambled-eggs {
+.img-scrambled-eggs {
     width: 400px;
     height: auto;
 }
 
-#ul-scrambled-eggs li::marker {
+.ul-scrambled-eggs li::marker {
     color: burlywood;
     font-size: 22px;
 }
 
-#ol-scrambled-eggs li::marker {
+.ol-scrambled-eggs li::marker {
     color: burlywood;
 }
 
 /* tacos.html */
 
-#img-tacos {
+.img-tacos {
     width: 400px;
     height: auto;
 }
 
-#ul-tacos li::marker {
+.ul-tacos li::marker {
     color: burlywood;
     font-size: 22px;
 }
 
-#ol-tacos li::marker {
+.ol-tacos li::marker {
     color: burlywood;
 }
 
 /* carnivore-ice-cream.html */
 
-#img-carnivore-ice-cream {
+.img-carnivore-ice-cream {
     width: 400px;
     height: auto;
 }
 
-#ul-carnivore-ice-cream li::marker {
+.ul-carnivore-ice-cream li::marker {
     color: burlywood;
     font-size: 22px;
 }
 
-#ol-carnivore-ice-cream li::marker {
+.ol-carnivore-ice-cream li::marker {
     color: burlywood;
 }
